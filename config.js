@@ -23,7 +23,7 @@ global.ownertag = ["916296614483"];
 global.OwnerName = "𝚰𝚻𝐒 | 𝐍𝐎𝚩𝚰𝚻𝚫";
 global.BotName = "𝐍𝐎𝚩𝚰𝚻𝚫| MD";
 global.packname = "X-2.0 Bot";                             //Do not change.
-global.author = "By: 𝚰𝚻𝐒 | 𝐍𝐎𝚩𝚰𝚻𝚫";                               //Do not change.
+global.author = "By: Slasher";                               //Do not change.
 global.BotSourceCode = "https://github.com/ahil15/Xlicon-v2"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk"; 
 
